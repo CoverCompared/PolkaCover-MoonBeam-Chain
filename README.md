@@ -1,12 +1,4 @@
-# ![moonbeam](media/moonbeam-cover.jpg)
 
-![Tests](https://github.com/PureStake/moonbeam/workflows/Tests/badge.svg)
-
-Run an Ethereum compatible ~~parachain~~ (and blockchain for now, until parachains are more stable)
-based on Substrate.
-
-_See [moonbeam.network](https://moonbeam.network) for the moonbeam blockchain description._  
-_See [www.substrate.io](https://www.substrate.io/) for substrate information._
 
 ## Install (linux)
 
@@ -140,10 +132,4 @@ cargo test --verbose
 
 This github repository is also linked to Gitlab CI
 
-## Contribute
 
-### Code style
-
-Moonbeam is following the
-[Substrate code style](https://github.com/paritytech/substrate/blob/master/docs/STYLE_GUIDE.md)  
-We provide a [.editorconfig](.editorconfig) (_compatible with VSCode using RLS_)
