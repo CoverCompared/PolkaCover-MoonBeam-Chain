@@ -1,4 +1,4 @@
-# ![moonbeam](media/moonbeam-cover.jpg)
+
 
 ![Tests](https://github.com/PureStake/moonbeam/workflows/Tests/badge.svg)
 
@@ -138,12 +138,3 @@ Tests are run with the following command:
 cargo test --verbose
 ```
 
-This github repository is also linked to Gitlab CI
-
-## Contribute
-
-### Code style
-
-Moonbeam is following the
-[Substrate code style](https://github.com/paritytech/substrate/blob/master/docs/STYLE_GUIDE.md)  
-We provide a [.editorconfig](.editorconfig) (_compatible with VSCode using RLS_)
