@@ -1,13 +1,4 @@
 
-
-![Tests](https://github.com/PureStake/moonbeam/workflows/Tests/badge.svg)
-
-Run an Ethereum compatible ~~parachain~~ (and blockchain for now, until parachains are more stable)
-based on Substrate.
-
-_See [moonbeam.network](https://moonbeam.network) for the moonbeam blockchain description._  
-_See [www.substrate.io](https://www.substrate.io/) for substrate information._
-
 ## Install (linux)
 
 ### Get the code
