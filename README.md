@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![moonbeam](media/moonbeam-cover.jpg)
 
 ![Tests](https://github.com/PureStake/moonbeam/workflows/Tests/badge.svg)
@@ -7,6 +8,9 @@ based on Substrate.
 
 _See [moonbeam.network](https://moonbeam.network) for the moonbeam blockchain description._  
 _See [www.substrate.io](https://www.substrate.io/) for substrate information._
+=======
+
+>>>>>>> de840a49faeb0edc70bd0bbc12cb510ec9971cb7
 
 ## Install (linux)
 
@@ -140,6 +144,7 @@ cargo test --verbose
 
 This github repository is also linked to Gitlab CI
 
+<<<<<<< HEAD
 ## Contribute
 
 ### Code style
@@ -147,3 +152,6 @@ This github repository is also linked to Gitlab CI
 Moonbeam is following the
 [Substrate code style](https://github.com/paritytech/substrate/blob/master/docs/STYLE_GUIDE.md)  
 We provide a [.editorconfig](.editorconfig) (_compatible with VSCode using RLS_)
+=======
+
+>>>>>>> de840a49faeb0edc70bd0bbc12cb510ec9971cb7
